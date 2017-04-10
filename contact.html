@@ -30,11 +30,11 @@
 							<ul>
 								<li><a href="africa.html">South Africa</a></li>
 								<li><a href="europe.html">Belgium</a></li>
-								<li><a href="canada.html">Montreal</a></li>
+								<li><a href="canada.html">Canada</a></li>
 								<li><a href="us.html">United States</a></li>
 							</ul>
 						</li>
-						<li><a href="about.html">About</a></li>
+						<!--<li><a href="about.html">About</a></li>-->
 						<li><a href="#">Contact</a></li>
 				</nav>
 			</div>
@@ -59,24 +59,24 @@
 
 							<!-- Contact Form -->
 							<section>
-								<form method="post" action="#">
+								<form method="post" action="https://formspree.io/anbrownie1@gmail.com">
 									<div class="row 50%">
 										<div class="6u 12u(mobile)">
-											<input type="text" name="name" id="contact-name" placeholder="Name" />
+											<input type="text" name="name" id="contact-name" placeholder="Name"required="required" />
 										</div>
 										<div class="6u 12u(mobile)">
-											<input type="text" name="email" id="contact-email" placeholder="Email" />
+											<input type="text" name="email" id="contact-email" placeholder="Email" required = "required"/>
 										</div>
 									</div>
 									<div class="row 50%">
 										<div class="12u">
-											<textarea name="message" id="contact-message" placeholder="Message" rows="4"></textarea>
+											<textarea name="message" id="contact-message" placeholder="Message" rows="4" required="required"></textarea>
 										</div>
 									</div>
 									<div class="row">
 										<div class="12u">
 											<ul class="actions">
-												<li><input type="submit" class="style1" value="Send" /></li>
+												<li><button type="submit" class="btn btn-info" id="button" value="Send">Submit</button></li>
 												<li><input type="reset" class="style2" value="Reset" /></li>
 											</ul>
 										</div>
@@ -103,11 +103,12 @@
 										<section>
 											<h3 class="icon fa-comment">Social</h3>
 											<p>
-												<a href="https://twitter.com/abbrownie" class="twitter-follow-button" data-size="large" data-show-screen-name="false" data-lang="en" data-show-count="false">
-												</a>
-												<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script><br />
-												<a href="linkedin.com/in/annebrownorlando">LinkedIn</a><br />
-												<a href="#">facebook.com/untitled</a>
+												<a href="https://twitter.com/abbrownie" class="fa fa-twitter">
+												</a><br />
+												
+												<a href="linkedin.com/in/annebrownorlando" class="fa fa-linkedin"></a><br />
+												
+												<a href="https://github.com/abbrownie1982" class = "fa fa-github"></a>
 											</p>
 										</section>
 									</div>
