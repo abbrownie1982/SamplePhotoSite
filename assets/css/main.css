@@ -1615,8 +1615,8 @@ ol.default li {
 	border: 1px solid #ddd;
 	border-radius: 4px;
 	padding: 5px;
-	margin-left: 90px;
 	margin-bottom: 80px;
+	margin-left: 90px;
 	width: 300px;
 	height: 300px;
 }
@@ -1627,7 +1627,7 @@ ol.default li {
 	border-radius: 4px;
 	padding: 5px;
 	margin-bottom: 80px;
-	max-width: 300px;
+	width: 300px;
 	height: 300px;
 }
 
@@ -1758,6 +1758,8 @@ ol.default li {
 	width: 300px;
 	height: 300px;
 }
+
+
 /* Icons */
 
 .icon {
