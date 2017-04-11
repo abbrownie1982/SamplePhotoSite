@@ -1528,7 +1528,6 @@ ol.default li {
 	border: 1px solid #ddd;
 	border-radius: 4px;
 	padding: 5px;
-	margin-left: 90px;
 	width: 300px;
 	height: 300px;
 }
@@ -1556,7 +1555,6 @@ ol.default li {
 	border: 1px solid #ddd;
 	border-radius: 4px;
 	padding: 5px;
-	margin-left: 90px;
 	margin-bottom: 80px;
 	width: 300px;
 	height: 300px;
@@ -1587,7 +1585,6 @@ ol.default li {
 	border: 1px solid #ddd;
 	border-radius: 4px;
 	padding: 5px;
-	margin-left: 90px;
 	width: 300px;
 	height: 300px;
 }
@@ -1616,7 +1613,6 @@ ol.default li {
 	border-radius: 4px;
 	padding: 5px;
 	margin-bottom: 80px;
-	margin-left: 90px;
 	width: 300px;
 	height: 300px;
 }
@@ -1646,7 +1642,6 @@ ol.default li {
 	border: 1px solid #ddd;
 	border-radius: 4px;
 	padding: 5px;
-	margin-left: 90px;
 	width: 300px;
 	height: 300px;
 }
@@ -1674,7 +1669,6 @@ ol.default li {
 	border: 1px solid #ddd;
 	border-radius: 4px;
 	padding: 5px;
-	margin-left: 90px;
 	margin-bottom: 80px;
 	width: 300px;
 	height: 300px;
@@ -1705,7 +1699,6 @@ ol.default li {
 	border: 1px solid #ddd;
 	border-radius: 4px;
 	padding: 5px;
-	margin-left: 90px;
 	width: 300px;
 	height: 300px;
 }
@@ -1733,7 +1726,6 @@ ol.default li {
 	border: 1px solid #ddd;
 	border-radius: 4px;
 	padding: 5px;
-	margin-left: 90px;
 	margin-bottom: 80px;
 	width: 300px;
 	height: 300px;
@@ -2048,6 +2040,214 @@ ol.default li {
 /* Desktop + Tablet */
 
 @media screen and (min-width: 737px) {
+	.thumbnail1 {
+		background: #2f333b url("images/be1.jpg");
+		border: 1px solid #ddd;
+		border-radius: 4px;
+		padding: 5px;
+		margin-left: 90px;
+		width: 300px;
+		height: 300px;
+	}
+	.thumbnail2 {
+		background: #2f333b url("images/be2.jpg");
+		border: 1px solid #ddd;
+		border-radius: 4px;
+		padding: 5px;
+		width: 300px;
+		height: 300px;
+	}
+	.thumbnail3 {
+		background: #2f333b url("images/be3.jpg");
+		border: 1px solid #ddd;
+		border-radius: 4px;
+		padding: 5px;
+		width: 300px;
+		height: 300px;
+	}
+	.thumbnail4 {
+		background: #2f333b url("images/be4.jpg");
+		border: 1px solid #ddd;
+		border-radius: 4px;
+		padding: 5px;
+		margin-left: 90px;
+		width: 300px;
+		height: 300px;
+	}
+	.thumbnail5 {
+		background: #2f333b url("images/be5.jpg");
+		border: 1px solid #ddd;
+		border-radius: 4px;
+		padding: 5px;
+		margin-bottom: 80px;
+		width: 300px;
+		height: 300px;
+	}
+	.thumbnail6 {
+		background: #2f333b url("images/be6.jpg");
+		border: 1px solid #ddd;
+		border-radius: 4px;
+		padding: 5px;
+		margin-bottom: 80px;
+		width: 300px;
+		height: 300px;
+	}
+	.thumbnail7 {
+		background: #2f333b url("images/sa1.jpg");
+		border: 1px solid #ddd;
+		border-radius: 4px;
+		padding: 5px;
+		margin-left: 90px;
+		width: 300px;
+		height: 300px;
+	}
+	.thumbnail8 {
+		background: #2f333b url("images/sa2.jpg");
+		border: 1px solid #ddd;
+		border-radius: 4px;
+		padding: 5px;
+		width: 300px;
+		height: 300px;
+	}
+	.thumbnail9 {
+		background: #2f333b url("images/sa3.jpg");
+		border: 1px solid #ddd;
+		border-radius: 4px;
+		padding: 5px;
+		width: 300px;
+		height: 300px;
+	}
+	.thumbnail10 {
+		background: #2f333b url("images/sa4.jpg");
+		border: 1px solid #ddd;
+		border-radius: 4px;
+		padding: 5px;
+		margin-left: 90px;
+		width: 300px;
+		height: 300px;
+	}
+	.thumbnail11 {
+		background: #2f333b url("images/sa5.jpg");
+		border: 1px solid #ddd;
+		border-radius: 4px;
+		padding: 5px;
+		margin-bottom: 80px;
+		width: 300px;
+		height: 300px;
+	}
+	.thumbnail12 {
+		background: #2f333b url("images/sa6.jpg");
+		border: 1px solid #ddd;
+		border-radius: 4px;
+		padding: 5px;
+		margin-bottom: 80px;
+		width: 300px;
+		height: 300px;
+	}
+	.thumbnail13 {
+		background: #2f333b url("images/ca1.jpg");
+		border: 1px solid #ddd;
+		border-radius: 4px;
+		padding: 5px;
+		margin-left: 90px;
+		width: 300px;
+		height: 300px;
+	}
+	.thumbnail14 {
+		background: #2f333b url("images/ca2.jpg");
+		border: 1px solid #ddd;
+		border-radius: 4px;
+		padding: 5px;
+		width: 300px;
+		height: 300px;
+	}
+	.thumbnail15 {
+		background: #2f333b url("images/ca3.jpg");
+		border: 1px solid #ddd;
+		border-radius: 4px;
+		padding: 5px;
+		width: 300px;
+		height: 300px;
+	}
+	.thumbnail16 {
+		background: #2f333b url("images/ca4.jpg");
+		border: 1px solid #ddd;
+		border-radius: 4px;
+		padding: 5px;
+		margin-left: 90px;
+		width: 300px;
+		height: 300px;
+	}
+	.thumbnail17 {
+		background: #2f333b url("images/ca5.jpg");
+		border: 1px solid #ddd;
+		border-radius: 4px;
+		padding: 5px;
+		margin-bottom: 80px;
+		width: 300px;
+		height: 300px;
+	}
+	.thumbnail18 {
+		background: #2f333b url("images/ca6.jpg");
+		border: 1px solid #ddd;
+		border-radius: 4px;
+		padding: 5px;
+		margin-bottom: 80px;
+		width: 300px;
+		height: 300px;
+	}
+	.thumbnail19 {
+		background: #2f333b url("images/us1.jpg");
+		border: 1px solid #ddd;
+		border-radius: 4px;
+		padding: 5px;
+		margin-left: 90px;
+		width: 300px;
+		height: 300px;
+	}
+	.thumbnail20 {
+		background: #2f333b url("images/us2.jpg");
+		border: 1px solid #ddd;
+		border-radius: 4px;
+		padding: 5px;
+		width: 300px;
+		height: 300px;
+	}
+	.thumbnail21 {
+		background: #2f333b url("images/us3.jpg");
+		border: 1px solid #ddd;
+		border-radius: 4px;
+		padding: 5px;
+		width: 300px;
+		height: 300px;
+	}
+	.thumbnail22 {
+		background: #2f333b url("images/us4.jpg");
+		border: 1px solid #ddd;
+		border-radius: 4px;
+		padding: 5px;
+		margin-left: 90px;
+		width: 300px;
+		height: 300px;
+	}
+	.thumbnail23 {
+		background: #2f333b url("images/us5.jpg");
+		border: 1px solid #ddd;
+		border-radius: 4px;
+		padding: 5px;
+		margin-bottom: 80px;
+		width: 300px;
+		height: 300px;
+	}
+	.thumbnail24 {
+		background: #2f333b url("images/us6.jpg");
+		border: 1px solid #ddd;
+		border-radius: 4px;
+		padding: 5px;
+		margin-bottom: 80px;
+		width: 300px;
+		height: 300px;
+	}
 	/* Basic */
 	body,
 	input,
